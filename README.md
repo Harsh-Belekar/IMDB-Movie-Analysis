@@ -5,6 +5,9 @@ The project combines **Python-based analysis** with an **Interactive Power BI da
 
 > 📌 **Task 2 – Data Science Internship at HexSoftwares**
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+
 ---
 
 ## 📊 Project Objectives
