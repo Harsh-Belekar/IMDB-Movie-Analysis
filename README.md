@@ -5,7 +5,8 @@ The project combines **Python-based analysis** with an **Interactive Power BI da
 
 > 📌 **Task 2 – Data Science Internship at HexSoftwares**
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-teal) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+
 
 ---
 
