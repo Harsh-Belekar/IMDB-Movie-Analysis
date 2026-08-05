@@ -37,12 +37,22 @@ Using the IMDB movie ratings dataset, this project aims to:
 
 ```
 │
-├── IMDB Movie Analysis Dashboard.pbix
-├── IMDB Movie Analysis Dashboard.pdf
-├── IMDB_Movie_Analysis.ipynb
-├── IMDB_Movie_Data.csv
-├── README.md
-├── requirements.txt
+├── README.md 
+│
+├── requirements.txt 
+│
+├── Dashboard/
+│    └── IMDB Movie Analysis Dashboard.pbix
+│
+├── Data/ 
+│    └── IMDB_Movie_Data.csv
+│
+├── Docs/ 
+│    └── IMDB Movie Analysis Dashboard.pdf
+│
+├── Notebook/
+│    └── IMDB_Movie_Analysis.ipynb
+│
 └── images/
     ├── Box Plot of IMDB Ratings.png
     ├── Distribution of IMDB Ratings.png
